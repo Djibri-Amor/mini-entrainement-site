@@ -1,0 +1,73 @@
+
+body{
+    background-color: #F111;
+}
+h1 {
+    color: darkviolet;
+    text-align: center;
+}
+div {
+    color: plum;
+    text-align:center;
+}
+li {
+    color: plum;
+    text-align:center;
+    font-size: 25px
+}
+.points{
+    display:flex;
+    justify-content:center;
+}
+p{
+    text-align:center;
+    color:plum
+}
+.color {
+    color: #6898a0
+}
+image-container{
+    align-content: center;
+
+}
+#geoloc {
+    text-align:center;
+    font-size: 30px;
+}
+#cpr {
+    text-align :justify;
+}
+@media (max-width: 576px) {
+        div {
+            color: plum;
+            text-align:center;
+            font-size: 10px;
+        }
+        li {
+            color: plum;
+            text-align:center;
+            font-size: 13px;
+        }
+        .points{
+            display:flex;
+            justify-content:center;
+        }
+        p{
+            text-align:center;
+            color:plum
+        }
+        .color {
+            color: #6898a0
+        }
+        image-container{
+            align-content: center;
+
+        }
+        #geoloc {
+            text-align:center;
+            font-size: 15px;
+        }
+        #cpr {
+            text-align :justify;
+        }
+            }

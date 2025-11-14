@@ -1,0 +1,23 @@
+body{
+    background-color: #D8E4FF;
+}
+h1{
+    Color:red
+}
+li{
+    color:#00120B;
+    height: 20px;
+}
+#prout{
+    display:flex;
+    justify-content:center;
+}
+#orga{
+    color:black;
+    font-size: 25px;
+    text-align:center;
+}
+#cacaprout{
+    color:blueviolet;
+    text-align: justify;
+}
